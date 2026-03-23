@@ -30,7 +30,7 @@ pip install -e .
 
 ### 1. Create a GlitchTip API Token
 
-1. Go to your GlitchTip instance: `https://your-glitchtip.com/settings/api-tokens`
+1. Go to your GlitchTip instance: `https://your-glitchtip.com/profile/auth-tokens`
 2. Click **Create New Token**
 3. Copy the token
 
